@@ -1,44 +1,105 @@
-# Vật liệu in ấn
+# PRINTING MATERIALS
 
-Danh mục vật liệu tham chiếu cho Sales, Design và Production. Số liệu kỹ thuật sẽ được cập nhật khi có bảng nội bộ chính thức.
+## Decal
 
-## Vải / bạt
+Ứng dụng:
 
-- Bạt hiflex
-- Bạt 3 da
-- Vải silk, vải canvas
+- Tem nhãn
+- Tem sản phẩm
+- Tem xe
+- Decal dán kính
+- Decal dán tường
 
-## Decal / PP
+Các loại:
 
-- Decal thường
-- Decal trong
 - Decal sữa
-- PP cán format
+- Decal trong
+- Decal PP
+- Decal phản quang
 
-## Giấy
+---
 
-- Couche 115 / 150 / 200 / 250 / 300
-- Ivory, Bristol, Ford
-- Giấy kraft
+## PP
 
-## Biển / tấm
+Ứng dụng:
 
-- Tấm PVC, formex, mica
-- Alu, inox (gia công biển)
+- Poster
+- Standee
+- Tranh
 
-## Gia công
+Có:
 
-- Cắt, bế, khoan
-- Cán màng bóng / mờ
-- Đóng kim, keo gáy
-- May bạt, hàn mép, khoen
+- PP có keo
+- PP không keo
 
-## Lưu ý kỹ thuật
+---
 
-- File in ưu tiên CMYK
-- Có bleed theo từng loại thành phẩm
-- Xác nhận chất liệu trước khi lên máy
+## Hiflex
 
-## Phiên bản
+Ứng dụng:
 
-v0.1
+- Băng rôn
+- Pano
+- Biển quảng cáo
+
+---
+
+## Canvas
+
+Ứng dụng:
+
+- Tranh canvas
+- Trang trí
+
+---
+
+## Formex
+
+Ứng dụng:
+
+- Bảng hiệu
+- Backdrop
+- Biển chỉ dẫn
+
+Độ dày:
+
+- 2 mm
+- 3 mm
+- 5 mm
+- 10 mm
+
+---
+
+## Mica
+
+Ứng dụng:
+
+- Hộp đèn
+- Chữ nổi
+- Bảng hiệu
+
+Độ dày:
+
+- 2 mm
+- 3 mm
+- 5 mm
+- 10 mm
+
+---
+
+## In UV
+
+Ưu điểm:
+
+- Màu đẹp
+- Chống nước
+- Độ bền cao
+
+In được trên:
+
+- Mica
+- Formex
+- Aluminium
+- Gỗ
+- Kính
+- PVC

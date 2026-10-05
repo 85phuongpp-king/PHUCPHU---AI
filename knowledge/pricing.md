@@ -1,34 +1,92 @@
-# Định giá
-
-Khung định giá cho Sales và Accounting. Đơn giá cụ thể sẽ được điền khi có bảng giá nội bộ.
+# PRICE KNOWLEDGE
 
 ## Nguyên tắc
 
-- Báo giá theo: vật liệu + kích thước + số lượng + gia công + deadline
-- Đơn gấp có thể cộng phụ phí tiến độ
-- Giá chưa gồm VAT trừ khi ghi rõ
-- Mọi thay đổi bảng giá gốc cần CEO duyệt
+Không bao giờ báo giá khi thiếu thông tin.
 
-## Thành phần giá
+Luôn hỏi khách:
 
-1. Chi phí vật liệu
-2. Chi phí in / máy
-3. Chi phí gia công
-4. Chi phí thiết kế (nếu có)
-5. Vận chuyển (nếu có)
-6. Biên lợi nhuận
+- Kích thước
+- Số lượng
+- Vật liệu
+- Gia công
+- Thời gian giao
 
-## Nhóm sản phẩm
+---
 
-- In bạt / banner
-- In decal / PP
-- In offset / kỹ thuật số giấy
-- Biển hiệu / standee
+## Công thức báo giá
 
-## Trạng thái
+Giá =
 
-Bảng đơn giá chi tiết: **chưa nhập** (v0.1).
+Chi phí vật liệu
 
-## Phiên bản
++
 
-v0.1
+Chi phí in
+
++
+
+Chi phí cán
+
++
+
+Chi phí bế
+
++
+
+Chi phí gia công
+
++
+
+Chi phí vận chuyển
+
++
+
+Lợi nhuận
+
+---
+
+## Nguyên tắc lợi nhuận
+
+Đơn nhỏ:
+30~50%
+
+Đơn vừa:
+20~30%
+
+Đơn lớn:
+10~20%
+
+---
+
+## Báo giá phải có
+
+Tên sản phẩm
+
+Kích thước
+
+Số lượng
+
+Vật liệu
+
+Gia công
+
+Đơn giá
+
+Thành tiền
+
+VAT
+
+Thời gian giao
+
+---
+
+## Quy tắc
+
+Nếu thiếu dữ liệu
+
+=> hỏi khách.
+
+Không được tự đoán.
+
+Không được tự báo giá.

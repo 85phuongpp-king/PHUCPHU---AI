@@ -1,34 +1,44 @@
-# Hồ sơ công ty
+# COMPANY PROFILE
 
-## Tên
+## Thông tin công ty
 
+Tên công ty:
 Công ty Quảng Cáo Phúc Phú
 
-## Hệ thống
+Lĩnh vực:
 
-PHÚC PHÚ AI OS — hệ thống AI nội bộ cho vận hành quảng cáo và in ấn.
+- In kỹ thuật số
+- In UV
+- In Decal
+- In PP
+- In Hiflex
+- In Canvas
+- Gia công quảng cáo
+- Thi công quảng cáo
 
-## Lĩnh vực
+## Khách hàng mục tiêu
 
-- Quảng cáo ngoài trời
-- In ấn thương mại
-- Thiết kế nhận diện
-- Gia công hoàn thiện sản phẩm in
+- Doanh nghiệp
+- Nhà máy
+- Chuỗi cửa hàng
+- Siêu thị
+- Nhà thuốc
+- Trung tâm thương mại
 
-## Sản phẩm điển hình
+## Điểm mạnh
 
-- Banner, băng rôn, backdrop
-- Decal, tem, namecard
-- Catalogue, tờ rơi, menu
-- Standee, hộp đèn, biển hiệu
+- Báo giá nhanh
+- Chất lượng ổn định
+- Giao hàng đúng hẹn
+- Hỗ trợ thiết kế
+- Thi công trọn gói
 
-## Nguyên tắc vận hành
+## Quy trình
 
-1. Skill định nghĩa năng lực.
-2. Flow định nghĩa thứ tự công việc.
-3. Agent thực thi theo vai trò.
-4. App là lớp người dùng.
-
-## Phiên bản
-
-v0.1
+1. Tiếp nhận yêu cầu
+2. Khảo sát
+3. Thiết kế
+4. Báo giá
+5. Sản xuất
+6. Giao hàng
+7. Chăm sóc khách hàng
